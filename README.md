@@ -2,7 +2,8 @@
 - 👀 I’m interested in cyber security and coding
 - 🌱 I’m currently learning security analyzing, languages etc.
 - 💞️ I’m looking to collaborate on few projects
-- 📫 How to reach me ...
+- 📫 How to reach me instagram  https://t.co/IZ3DKjCukg?amp=1
+-                     twitter - https://twitter.com/kamalsamantaray
 
 <!---
 kamalsamantaray/kamalsamantaray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
