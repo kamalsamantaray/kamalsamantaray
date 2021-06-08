@@ -2,7 +2,8 @@
 - 👀 I’m interested in cyber security and coding
 - 🌱 I’m currently learning security analyzing, languages etc.
 - 💞️ I’m looking to collaborate on few projects
-- 📫 How to reach me 
+- 📫 How to reach me
+- Linkedln - https://www.linkedin.com/in/kamal-samantaray/ 
 - Instagram - https://t.co/IZ3DKjCukg?amp=1
 - Twitter - https://twitter.com/kamalsamantaray
 
