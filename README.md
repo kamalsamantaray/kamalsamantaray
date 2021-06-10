@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on few projects
 - 📫 How to reach me
 - Linkedln - https://www.linkedin.com/in/kamal-samantaray/ 
-- Instagram - https://t.co/IZ3DKjCukg?amp=1
+- Instagram - https://www.instagram.com/kamal_samantaray/
 - Twitter - https://twitter.com/kamalsamantaray
 
 <!---
