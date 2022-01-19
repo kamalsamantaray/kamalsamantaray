@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kamalsamantaray
+- 👋 Hi, I’m kamalsamantaray
 - 👀 I’m interested in cyber security and coding
 - 🌱 I’m currently learning security analyzing, languages etc.
 - 💞️ I’m looking to collaborate on few projects
